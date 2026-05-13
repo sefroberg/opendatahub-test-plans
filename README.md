@@ -10,19 +10,20 @@ Test plans document the test strategy, approach, and individual test cases for e
 odh-test-plans/
 ├── README.md
 ├── CONTRIBUTING.md
-├── <team_name>/                    # One folder per team
-│   ├── <feature_name>/             # One folder per feature
-│   │   ├── README.md               # Feature overview, links to ADR/Epic/STRAT
-│   │   ├── TestPlan.md             # Full test strategy and execution plan
-│   │   ├── TestPlanGaps.md         # Open questions / gaps (optional)
-│   │   ├── TestPlanReview.md       # Review results (optional)
-│   │   └── test_cases/
-│   │       ├── INDEX.md            # Test case index by category
-│   │       └── TC-<CAT>-NNN.md    # Individual test case specs
-│   └── <another_feature>/
+├── plans/                          # All test plans live here
+│   ├── <team_name>/                # One folder per team
+│   │   ├── <feature_name>/         # One folder per feature
+│   │   │   ├── README.md           # Feature overview, links to ADR/Epic/STRAT
+│   │   │   ├── TestPlan.md         # Full test strategy and execution plan
+│   │   │   ├── TestPlanGaps.md     # Open questions / gaps (optional)
+│   │   │   ├── TestPlanReview.md   # Review results (optional)
+│   │   │   └── test_cases/
+│   │   │       ├── INDEX.md        # Test case index by category
+│   │   │       └── TC-<CAT>-NNN.md # Individual test case specs
+│   │   └── <another_feature>/
+│   │       └── ...
+│   └── <another_team>/
 │       └── ...
-├── <another_team>/
-│   └── ...
 ```
 
 ## Getting Started

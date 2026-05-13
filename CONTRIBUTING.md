@@ -12,8 +12,8 @@ You can create test plans **manually** or use the [odh-test-gen](https://github.
 
 ### Manual creation
 
-1. Create or use your team's directory (e.g., `ai-hub/`, `platform/`)
-2. Under your team folder, create a directory named after the feature using snake_case (e.g., `mcp_catalog/`)
+1. Create or use your team's directory under `plans/` (e.g., `plans/ai-hub/`, `plans/platform/`)
+2. Under your team folder, create a directory named after the feature using snake_case (e.g., `plans/ai-hub/mcp_catalog/`)
 3. Add the following files:
 
 | File | Required | Description |
