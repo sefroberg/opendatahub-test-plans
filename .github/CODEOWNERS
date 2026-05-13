@@ -11,8 +11,8 @@
 *       @opendatahub-io/opendatahub-tests-contributors
 
 # Team specific rules
-ai-hub/                                        @dbasunag @lugi0 @fege
-model-explainability/                          @sheltoncyril @kpunwatk
-model-serving/                                 @mwaykole @Raghul-M @brettmthompson @threcc @rpancham @SB159
-llama-stack/                                   @Artemon-line @Bobbins228 @ChristianZaccaria @jgarciao @jiripetrlik @Ygnas
-workbenches/                                   @jstourac @andyatmiami @jiridanek @harshad16
+plans/ai-hub/                                  @dbasunag @lugi0 @fege
+plans/model-explainability/                    @sheltoncyril @kpunwatk
+plans/model-serving/                           @mwaykole @Raghul-M @brettmthompson @threcc @rpancham @SB159
+plans/llama-stack/                             @Artemon-line @Bobbins228 @ChristianZaccaria @jgarciao @jiripetrlik @Ygnas
+plans/workbenches/                             @jstourac @andyatmiami @jiridanek @harshad16
